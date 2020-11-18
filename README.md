@@ -10,7 +10,9 @@ Objectives:
 3. Determine Overall Score of Each Drug to Recommend to Patients
 
 Sentiment Analysis: Vader and TextBlob
+
 Classification models used: Logistic Regression, Naive Bayes, Random Forest, Decision Tree, KNN and Adaboost 
+
 Regression models used:  KNN, Multiple Linear Regression, Decision Tree, Lasso, Ridge and ElasticNet Regression
 
 
